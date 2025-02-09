@@ -1,0 +1,10 @@
+title: "峯岸亮のポートフォリオ"
+author: "峯岸亮"
+email: "r.minegishi1987@gmail.com"
+description: "AI・機械学習・VR開発を専門とするエンジニアのポートフォリオ"
+baseurl: "" # サブディレクトリがある場合のみ変更
+url: "https://username.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
